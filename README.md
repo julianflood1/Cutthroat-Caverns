@@ -12,7 +12,11 @@ https://github.com/julianflood1/Cutthroat-Caverns
 
 ## Images
 
+### _Character Select Screen_
+![character-select](https://user-images.githubusercontent.com/24885660/28997172-f80f79b8-79c2-11e7-813b-75b7422a160a.png)
 
+### _Gameboard Screen_
+![gameboard-attack](https://user-images.githubusercontent.com/24885660/28997171-f5073206-79c2-11e7-9a0b-3a2416bbe7da.png)
 
 More sample images can be found in src/app/img
 
@@ -46,7 +50,7 @@ More sample images can be found in src/app/img
 
 + Use Terminal (on Mac) or Windows PowerShell (on Windows), enter the following to clone the repository:
 <br>
-<code> git clone </code> https://github.com/kimlan1510/Cutthroat-Cavern-Web-App
+<code> git clone </code> https://github.com/julianflood1/Cutthroat-Caverns
 
 + Make account with firebase to obtain API credentials.
 + Import deck.json.
@@ -71,8 +75,8 @@ export const masterFirebaseConfig= {
 
 ## Known Bugs
 
-_The attack feature only works correctly of there are four attack cards in play._
-_Clicking on the character's profile picture alerts player to select an counter action card even though the players have not selected an action card._
++ _The attack feature only works correctly if there are four attack cards in play._
++ _Clicking on the character's profile picture alerts player to select an counter action card even though the players have not selected an action card._
 
 
 
