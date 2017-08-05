@@ -8,12 +8,13 @@
 
 This game is a recreation of a board game called Cutthroat Caverns. Four players are fighting their way out of a dungeon, and must rely on each other to survive a series of creatures' attacks, while competing against each other to collect prestige points. The player that survives and has the most prestige points, wins.
 
-https://github.com/kimlan1510/Cutthroat-Cavern-Web-App
-
+https://github.com/julianflood1/Cutthroat-Caverns
 
 ## Images
 
-Sample images can be found in src/app/img
+
+
+More sample images can be found in src/app/img
 
 
 
